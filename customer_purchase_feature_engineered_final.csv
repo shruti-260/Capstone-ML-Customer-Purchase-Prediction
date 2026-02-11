@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 Revenue,Avg_Time_Per_Page,Product_Page_Ratio,Product_Time_Ratio,High_Bounce,High_Exit,Discount_Level,Is_Returning_Visitor,Weekend_Flag,Month_Code,Discount_Product_Interaction,Returning_Engagement,Engagement_Level,Hesitation_Score,Discount_Sensitive_User,Traffic_Quality_Score
 False,0.0,0.5,0.0,0,0,No_Discount,1,0,1,0.0,0.0,Low_Engagement,1.0,0,0.0
 False,21.333333333333332,0.6666666666666666,0.9846153846153847,0,0,No_Discount,1,0,1,0.0,64.0,Low_Engagement,0.08955223880597016,0,42.666666666666664
@@ -24662,4 +24662,4 @@ False,77.625,0.8333333333333334,0.9978575254418853,0,0,No_Discount,1,1,10,0.0,46
 False,26.321428571428573,0.8571428571428571,0.9946018893387314,0,0,No_Discount,1,1,10,0.0,184.25,Low_Engagement,0.2196078431372549,0,144.7678571955
 False,21.05,0.75,0.8199052132701422,0,0,No_Discount,1,0,10,0.0,421.0,Medium_Engagement,0.8616780045351473,0,315.75
 False,5.3125,0.75,0.9550561797752809,0,0,No_Discount,0,1,10,0.0,0.0,Low_Engagement,0.4752475247524752,0,15.9375
->>>>>>> 279844f3d21aa2d8d2dd65c182d24ab90090b094
+
