@@ -1,16 +1,7 @@
-<<<<<<< HEAD
+
 streamlit
 pandas
 numpy
 scikit-learn
-joblib
+joblib      
 matplotlib
-=======
-streamlit
-pandas
-numpy
-scikit-learn
-joblib
-matplotlib
->>>>>>> 279844f3d21aa2d8d2dd65c182d24ab90090b094
-seaborn
